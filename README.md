@@ -7,7 +7,7 @@
 		<img src="https://img.shields.io/badge/powered_by-Jekyll-red.svg"></a>&nbsp;
 </p><br>
 
-The site is hosted by [**Jekyll**](https://jekyllrb.com/) from GitHub's servers.<br>
-A customized theme based on the [Agency Jekyll theme](https://github.com/y7kim/agency-jekyll-theme) based on [Agency bootstrap theme](https://startbootstrap.com/template-overviews/agency/).
+The site is hosted from GitHub's servers.<br>
+A customized theme based on the [Glint theme](https://colorlib.com/wp/template/glint/).
 
 Visit : [ARWebz Web Development](https://arwebz.github.io/)
